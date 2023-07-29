@@ -1,6 +1,6 @@
 # UdemyBot - A Simple Udemy Free Courses Scrapper
 
-# Copyright (C) 2021-Present Gautam Kumar <https://github.com/gautamajay52>
+# Copyright (C) 2021-Present FantasticSukhi <https://github.com/FantasticSukhi>
 
 import asyncio
 
