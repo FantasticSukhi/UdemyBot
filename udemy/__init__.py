@@ -9,7 +9,7 @@ api_id = os.environ.get('API_ID')
 api_hash = os.environ.get('API_HASH')
 
 START = """
-Hey, I'm UdemyBot which is developed by @THE_THIRD_EYE_NETWORK. ⚡
+Hey, I'm UdemyBot which is developed by @MAMBA_UPDATES_CHAT.⚡
 
 I can send you free Udemy Courses Links.
 
